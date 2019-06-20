@@ -2,7 +2,7 @@
 
 Scripts pour application Paysages
 
-## Chargement des points par le service geoville (détection automatique du changement=
+## Chargement des points par le service geoville (détection automatique du changement)
 
 * Le shapefile doit contenir les attributs suivants qui correspondent aux attributs de l'OCS au temps t0:
   * CLEABS : identifiant du polygone dans lequel tombe le points
