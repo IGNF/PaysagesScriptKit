@@ -17,4 +17,8 @@ Scripts pour application Paysages
   * 3 : chgt autres
 
 
-## Batiment
+## Chargement des points pour saisir l'usage des zones baties
+
+* Le shapefile doit contenir les attributs suivants:
+  * nature
+  * fonction
